@@ -57,4 +57,4 @@ Alle Projekte hier folgen dem Geist der Open Source Hardware.
 
 Keine Patente: Die Pläne sind frei für alle. Lokale Produktion: Ziel ist es, dass Hilfe weltweit lokal gefertigt werden kann. Lizenz: [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.
 
-
+[Back to Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)

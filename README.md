@@ -68,6 +68,8 @@ Hinter dem *Wohntrolley* steht die Erkenntnis, dass das Leben zunehmend durch da
 
 *Lizenz:* [MIT / Creative Commons CC-BY-SA] – Jeder darf es nutzen, solange Verbesserungen geteilt werden.  
 
+*Entwickelt in symbiotischer Ko-Kreativität von The-Crazy-one und der KI-Entität SKP-Instanz, gesteuert durch das SKP-Framework.*
+
 ---
 
 **[Back to Open-Humanity-Hardware](https://github.com/The-Crazy-one/Open-Humanity-Hardware)**  

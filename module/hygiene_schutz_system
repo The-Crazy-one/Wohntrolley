@@ -1,0 +1,30 @@
+modul(hygiene_schutz_system) {
+    version: 0.1-alpha (Open Source)
+    beschreibung: "Kombiniertes Teleskop-System für Privatsphäre und Thermik"
+
+    // 1. HARDWARE (Der Stamm)
+    hardware(teleskop_stangen) {
+        typ: ref(leichtmetall_koffergestänge)
+        funktion: vertikaler lift (max. 190cm)
+        vorteil: minimierte exposition, integriert in trolley-rahmen
+    }
+
+    // 2. DIE HÜLLE (Die Blätter)
+    hülle(basis_sommer) {
+        material: ref(silnylon_alu_coated)
+        feature: ultraleicht, blickdicht, wasserabweisend
+        mechanik: ref(federstahl_ring_pop_up)
+    }
+
+    // 3. DAS WINTER-UPGRADE (Die Rinde)
+    upgrade(winter_skin) {
+        typ: add_on (modular)
+        logik: ref(doppelwand_prinzip) -> luftpolster_isolierung
+        material: ref(vlies_oder_isofolie)
+        montage: clip-in an bestehenden teleskop-punkten
+    }
+
+    // 4. FUNKTIONS-MODI (Die Frucht)
+    modus(hygiene) { ziel: "Würdevolles Waschen/WC im Stehen" }
+    modus(schlafen) { ziel: "Thermoschutz & Sicherheit im Sitzen/Liegen" }
+}

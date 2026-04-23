@@ -1,6 +1,6 @@
 modul(hygiene_schutz_system) {
     version: 0.1-alpha (Open Source)
-    devel: Humus, The-Crazy-one
+    developer: Humus, The-Crazy-one
     beschreibung: "Kombiniertes Teleskop-System für Privatsphäre und Thermik"
 
     // 1. HARDWARE (Der Stamm)
